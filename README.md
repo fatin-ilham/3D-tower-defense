@@ -83,12 +83,8 @@ On Windows, download freeglut from https://www.transmissionzero.co.uk/software/f
 | 2 | 1.2x | Green-tint | -30% cooldown |
 | 3 | 1.5x | Red-tint | 2x damage |
 
-## Credits
 
-Made by:
-- 22301068 - Mushfique Tajwar
-- 22301130 - Aryan Rayeen Rahman
-- 22301327 - Md. Obaidullah Ahrar
+
 
 ## License
 
