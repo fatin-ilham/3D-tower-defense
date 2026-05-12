@@ -2,6 +2,9 @@
 
 An OpenGL GLUT-based tower defense game with player combat, defense upgrades, and boss foes.
 
+Instruction (Bangla): https://youtu.be/V-61PWGDGuY
+Gameplay: https://youtu.be/T28ZeWMty9w
+
 ## Features
 
 - **Wave-based combat**: Survive increasingly difficult foe waves
