@@ -86,9 +86,7 @@ On Windows, download freeglut from https://www.transmissionzero.co.uk/software/f
 ## Credits
 
 Made by:
-- 22301068 - Mushfique Tajwar
-- 22301130 - Aryan Rayeen Rahman
-- 22301327 - Md. Obaidullah Ahrar
+Fatin Ilham
 
 ## License
 
