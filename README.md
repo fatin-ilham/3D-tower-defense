@@ -45,6 +45,13 @@ An OpenGL GLUT-based tower defense game with player combat, defense upgrades, an
 | P | Set health to 1000 |
 | R | Restart match (match over) |
 
+## Quick Start
+
+1. Open this folder in VS Code
+2. Run `tower_defense.py`
+
+That's it! All files are already included.
+
 ## Requirements
 
 - Python 3.x
@@ -85,7 +92,9 @@ On Windows, download freeglut from https://www.transmissionzero.co.uk/software/f
 
 ## Credits
 
-Made by:
+**Project by:** Fatin Ilham
+
+**Original game authors:**
 - 22301068 - Mushfique Tajwar
 - 22301130 - Aryan Rayeen Rahman
 - 22301327 - Md. Obaidullah Ahrar
